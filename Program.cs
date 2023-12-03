@@ -6,8 +6,6 @@ namespace GitHubLearning
     {
         static void Main(string[] args)
         {
-            string test = "test";
-            int a= 3;
 
             Console.WriteLine("Hello World!");
         }
