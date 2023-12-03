@@ -8,6 +8,7 @@ namespace GitHubLearning
         {
             string test = "test";
             int a= 3;
+            string customText = "customText";
 
             Console.WriteLine("Hello World!");
         }
